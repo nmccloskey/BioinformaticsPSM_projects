@@ -21,7 +21,7 @@ This project comes from Dr. David Liberles's research group, and the objective i
 
 ### Scripting for Sciences and Business
 
-This upload contains computer labs the bulk of whose content comes from the instructor of the course (Dr. Justin Shi), included here to demonstrate the effort and learning involved in their completion. An interactive web page was constructed to interface with various programs and a user login database, involving HTML, CSS, PHP, MySQL, Python, C, Bootstrap, JQuery, and Javascript. Link: https://cis-linux2.temple.edu/~tuf61393/5015/lab11.
+This upload contains example files from computer labs the bulk of whose content comes from the instructor of the course (Dr. Justin Shi), included here to demonstrate the effort and learning involved in their completion. An interactive web page was constructed to interface with various programs and a user login database, involving HTML, CSS, PHP, MySQL, Python, C, Bootstrap, JQuery, and Javascript. Link: https://cis-linux2.temple.edu/~tuf61393/5015/lab11.
 
 ## Fall 2022
 
