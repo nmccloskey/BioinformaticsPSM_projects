@@ -1,8 +1,6 @@
 # BioinformaticsPSM_projects
 course projects from professional science master's in bioinformatics at Temple University
 
-This repo contains final projects for six courses completed in Temple University's Bioinformatics PSM program.
-
 ## Fall 2021
 
 ### Biological Models in Python
