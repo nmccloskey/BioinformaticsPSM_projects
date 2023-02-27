@@ -15,7 +15,7 @@ Telomeres are repetitive sequences at the ends of DNA molecules whose functions 
 
 ### Computational Genomics
 
-This project comes from Dr. David Liberles's research group, and the objective is to simulate the evolution of metabolic pathways with kinetic modeling. Uploaded here is the preliminary version, to which there have been extensive updates. The final version of this project and a manuscript are underway.
+This project comes from Dr. David Liberles's research group, and the objective is to simulate the evolution of metabolic pathways with kinetic modeling. Uploaded here is the preliminary version, to which there have been extensive updates (see PEMPS repo). The final version of this project and a manuscript are underway.
 
 ### Scripting for Sciences and Business
 
